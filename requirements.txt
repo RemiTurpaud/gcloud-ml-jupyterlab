@@ -1,0 +1,13 @@
+asyncio
+bokeh
+google-cloud
+h5py
+keras
+Pillow
+pprint
+scipy
+seaborn
+sklearn
+tensorflow
+v20
+xgboost
